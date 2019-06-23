@@ -2,11 +2,20 @@
 
 作为Android开发者学习了解后端的入门项目
 
-## 软件
+## 软件及版本
 
-* IntelliJ IDEA 2018.2.5 (破解版,ε=ε=ε=┏(゜ロ゜;)┛)
-* mysql-8.0.16-winx64
+* jdk1.8.0_74 (java软件开发工具包) 安装
+* IntelliJ IDEA 2018.2.5 (破解版,ε=ε=ε=┏(゜ロ゜;)┛，java编译器)
+* Apache Tomcat/7.0.88 (服务器软件)
+* mysql-8.0.16-winx64 (数据库软件)
 * Navicat Premium (数据库可视化软件)
+
+
+
+### jdk1.8.0_74安装
+
+链接：https://pan.baidu.com/s/10F9dChmocIdtAGwt2jf26w 
+提取码：wdi6 
 
 
 
@@ -57,9 +66,18 @@ ThisCrackLicenseId-{
 
 
 
+### Apache Tomcat/7.0.88安装
+
+https://pan.baidu.com/s/1uWQWHa3r1Auc6_dGUjlnLQ  提取码：1auo
+
+zip版tomcat免安装，直接解压即可使用。需要注意的是必须安装jdk工具包后，才能启动tomcat。
+
+
+
 ### MySql数据库软件安装
 
-1.<a href="<http://dev.mysql.com/downloads/mysql/>">MySql下载</a>
+1.下载链接：https://pan.baidu.com/s/1GcEdXM47RirrlJPnnnq_cg 
+提取码：j2cv 
 
 2.解压完成后，在该文件夹下创建my.ini配置文件，编辑：
 
